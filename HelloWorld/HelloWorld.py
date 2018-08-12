@@ -9,4 +9,4 @@ Created on Sun Aug 12 13:56:19 2018
 print('HelloWorld!')
 
 for i in range(5):
-    print('hoge')
+    print('HelloWorld!')
