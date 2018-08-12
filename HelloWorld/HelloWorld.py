@@ -10,5 +10,3 @@ print('HelloWorld!')
 
 for i in range(5):
     print('HelloWorld!')
-    
-print('See You!')
